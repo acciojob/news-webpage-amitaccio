@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
+.header>h1{
+	font-family:arial;
+	color:white;
+	width:100vw;
+	height:100px;
+	background-color:black;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+	
+    
+
+	
+}
